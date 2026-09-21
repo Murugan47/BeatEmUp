@@ -1,6 +1,7 @@
 # BeatEmUp
 
 A fully physics-based sandbox game inspired by *Kick the Buddy*, where players unleash creative destruction on an interactive ragdoll using an arsenal of tools, weapons, and environmental interactions.
+
 Try it here: [![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)](https://murugan47.github.io/BeatEmUp//)
 
 ---
